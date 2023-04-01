@@ -1,0 +1,29 @@
+
+/*-------first container--------*/
+
+
+.navbar{
+    width: 900px;
+}.nav-inside-1{
+    width: 410px;
+}
+.nav-inside-2{
+    width: 270px;
+}
+.nav-inside-3  input[type="text"]{
+    width: 100px;
+    height: 25px;
+}
+.nav-inside-3 .search{
+    font-size: 0.7rem;
+}
+ .nav-inside-1>.nav-content{
+    margin:0px 7px 0px 0px;
+    font-size: 0.8rem;
+}
+
+.nav-inside-2>.nav-content{
+    margin:0px 8px 0px 0px;
+    font-size: 0.8rem;
+}
+

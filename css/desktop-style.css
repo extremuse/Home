@@ -1,0 +1,40 @@
+
+/*------first container----*/
+.button{
+    right: 20%;
+}
+.nav-inside-3  input[type="text"]{
+  width: 265px;
+}
+.nav-inside-2{
+    padding-left: 30px;
+}
+.banner-item-1{
+    max-width: 1890px;
+}
+/*----fifth container--------*/
+.lower-content-left-image2>img{
+    left: 500px ;
+}
+/*----sixth container----*/
+.third-container-left .third-tree-img>img{
+    left: 53%;
+}
+/*-----second-container------*/
+
+#second-container{
+    width: 100vh;
+}
+.second-top p{
+    width:100vh;
+}
+.second-middle{
+    width: 100vh;
+    justify-content: space-evenly;
+}
+
+.second-top-left .second-top-left-image
+ , .second1top-middle-image ,.second-top-right-image >img{
+    width: 229px; ;
+    height: 224px;
+}
